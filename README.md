@@ -1,4 +1,4 @@
-![MasterHead](https://www.witsdigital.com/wits_assets/blog/1597747650_Full-stack-developer_(1).png)
+
 <h1 align="center">Hi 👋, I'm Vishnu Kumar</h1>
 <h3 align="center">🔭I aspire to become a proficient full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
